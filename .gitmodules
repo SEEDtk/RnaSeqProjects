@@ -1,0 +1,9 @@
+[submodule "brc.parent"]
+	path = brc.parent
+	url = https://github.com/SEEDtk/brc.parent
+[submodule "rna.erdb"]
+	path = rna.erdb
+	url = https://github.com/SEEDtk/rna.erdb
+[submodule "ncbi.utils"]
+	path = ncbi.utils
+	url = https://github.com/SEEDtk/ncbi.utils
